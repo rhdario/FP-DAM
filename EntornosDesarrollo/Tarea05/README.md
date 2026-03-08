@@ -1,5 +1,12 @@
-Entornos de Desarrollo
-Este directorio contiene las tareas y prácticas de la asignatura de Entornos de Desarrollo del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FP DAM).
+# Tarea 05: 
 
-Contenido
-Cada carpeta corresponde a una tarea específica de la asignatura.
+Este directorio contiene la solución a la Tarea 5 de la asignatura de **Entornos de Desarrollo**.
+
+## Descripción
+
+Proyecto de refactorización del sistema de gestión de biblioteca.
+
+## Archivos incluidos
+
+- Código fuente refactorizado
+- Documentación del proyecto
