@@ -1,7 +1,12 @@
-# Entornos de Desarrollo
+# Tarea 04: Biblioteca
 
-Este directorio contiene las tareas y prácticas de la asignatura de **Entornos de Desarrollo** del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FP DAM).
+Este directorio contiene la solución a la Tarea 4 de la asignatura de **Entornos de Desarrollo**.
 
-## Contenido
+## Descripción
 
-Cada carpeta corresponde a una tarea específica de la asignatura.
+Proyecto de refactorización del sistema de gestión de biblioteca.
+
+## Archivos incluidos
+
+- Código fuente refactorizado
+- Documentación del proyecto
