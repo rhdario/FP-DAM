@@ -1,8 +1,5 @@
-# Tarea 05 - Entornos de Desarrollo
+Entornos de Desarrollo
+Este directorio contiene las tareas y prácticas de la asignatura de Entornos de Desarrollo del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FP DAM).
 
-Resolución de la quinta actividad práctica de la asignatura.
-
-## 📋 Contenido
-- **Código:** Archivos fuente de la tarea.
-- **Documentos:** Memoria y explicaciones.
-- **Diagramas:** Esquemas de diseño.
+Contenido
+Cada carpeta corresponde a una tarea específica de la asignatura.
