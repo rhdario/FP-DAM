@@ -1,0 +1,40 @@
+{
+    "enquestes": [
+        {
+            "id": 1,
+            "titol": "Enquesta sobre hàbits de lectura",
+            "activa": true,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "text": "Quantes hores llegeixes a la setmana?",
+                    "tipus": "opcio_multiple",
+                    "opcions": ["Menys d'1 hora", "1-3 hores", "3-5 hores", "Més de 5 hores"]
+                },
+                {
+                    "ordre": 2,
+                    "text": "Quin tipus de llibres prefereixes?",
+                    "tipus": "opcio_multiple",
+                    "opcions": ["Ficció", "No ficció", "Biografies", "Còmic"]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titol": "Enquesta sobre hàbits alimentaris",
+            "activa": false,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "text": "Quantes vegades al dia menges fruita?",
+                    "tipus": "text_lliure"
+                },
+                {
+                    "ordre": 2,
+                    "text": "Quin tipus de dieta segueixes?",
+                    "tipus": "text_lliure"
+                }
+            ]
+        }
+    ]
+}

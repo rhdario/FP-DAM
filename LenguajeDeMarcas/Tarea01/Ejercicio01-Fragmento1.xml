@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+<contacte id="1">
+<nom>Pau Ferrer</nom>
+<telefon>600 123 456</telefon>
+<email>pau@exemple.cat</email>
+</contacte>
+<contacte id="2">
+<nom>Rita Camps</nom>
+<telefon>677 987 654</telefon>
+<email>rita@exemple.cat</email>
+</contacte>
+</agenda>

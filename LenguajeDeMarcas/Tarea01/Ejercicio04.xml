@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<inventari actualitzat="2025-05-01">
+<planta id="PLT-01" estoc="disponible">
+<nom>Monstera deliciosa</nom>
+<tipus>Interior</tipus>
+<preu moneda="EUR">24.99</preu>
+<regs>2 cops per setmana</regs>
+</planta>
+<planta id="PLT-02" estoc="disponible">
+<nom>Roser miniatura</nom>
+<tipus>Exterior</tipus>
+<preu moneda="EUR">12.50</preu>
+<regs>3 cops per setmana</regs>
+</planta>
+<planta id="PLT-03" estoc="sota comanda">
+<nom>Cactus saguaro</nom>
+<tipus>Interior</tipus>
+<preu moneda="EUR">8.75</preu>
+<regs>1 cop per setmana</regs>
+</planta>
+</inventari>
