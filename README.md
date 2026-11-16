@@ -7,4 +7,5 @@ Este repositorio contiene todos los módulos y proyectos realizados durante el c
 * 🗄️ **Bases de Datos:** SQL, diseño relacional y optimización.
 * 🛠️ **Entornos de Desarrollo:** Git, JUnit y metodologías ágiles.
 * 🖥️ **Sistemas Informáticos:** Gestión de hardware y sistemas operativos.
+* 🌐 Lenguaje de Marcas: HTML, CSS, XML y tecnologías web.
 
